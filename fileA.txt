@@ -1,2 +1,2 @@
 this is file A
-I am making some changes here.
+I am making some changes here.git 
