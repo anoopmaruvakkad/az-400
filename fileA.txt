@@ -1,2 +1,3 @@
 this is file A
 I am making some changes here.git 
+this is unwanted change
